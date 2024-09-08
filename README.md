@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ginni0521&show_icons=true"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=ginni0521&"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=ginni0521"/></p>
